@@ -10,7 +10,7 @@ flag = False
 print("ismaeel")
 print("ismaeel")
 print("ismaeel")
-pirnt("a"
+pirnt("a"mm
 
 print(df)
 # prime numbers are greater than 1
