@@ -10,6 +10,7 @@ flag = False
 print("ismaeel")
 print("ismaeel")
 print("ismaeel")
+pirnt("a"
 
 print(df)
 # prime numbers are greater than 1
