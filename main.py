@@ -10,6 +10,7 @@ flag = False
 print("i")
 print("i")
 print("i")
+print("haider")
 print("ismaee'0
 # prime numbers are greater than 1
 if num > 1:
